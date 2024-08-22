@@ -1,0 +1,22 @@
+---
+title: "Publications"
+output:
+  distill::distill_article:
+    toc: TRUE
+---
+ 
+## Journal articles
+
+**Davan, K. M.**, Poudyal, N. C., Applegate, R. D., & Feddersen, J. C. (2023). The effects of expectations, motivations, and constraints on small game hunters’ seasonal satisfaction. Wildlife Research.
+
+von Furstenberg, R., Vayer, V. R., Larson, L. R., Nils Peterson, M., Lee, K. J., Stevenson, K., ... **Davan, K.M.** ... & Woosnam, K. M. (2023). Evaluating impacts of R3 workshops for first‐time hunters at universities across the United States. Wildlife Society Bulletin, 47(3), e1482.
+
+## Theses
+
+**Davan, K.** (2021). An assessment of small game hunters’ and trappers’ motivations, satisfaction, and constraints [Master's thesis, University of Tennessee]. [https://trace.tennessee.edu/utk_gradthes/6224](https://trace.tennessee.edu/utk_gradthes/6224)
+
+**Davan, K.** (2019). Do Different Methods of Communication Impact Undergraduate Student’s Knowledge, Attitudes, & Beliefs Towards White-Nose Syndrome in Little Brown Bats [Honor's Thesis,University of Maine]. Honors College. [https://digitalcommons.library.umaine.edu/honors/482](https://digitalcommons.library.umaine.edu/honors/482/)
+
+## Misc
+
+**Davan, K.**, Poudyal, N. C., Applegate, R. D., & Feddersen, J. (2021, Spring). Understanding a tradition. Tennessee Wildlife. [https://www.researchgate.net/publication/367207498_Davan_K_Poudyal_N_C_Applegate_R_D_Feddersen_J_2021_Spring_Understanding_a_tradition_Tennessee_Wildlife](https://www.researchgate.net/publication/367207498_Davan_K_Poudyal_N_C_Applegate_R_D_Feddersen_J_2021_Spring_Understanding_a_tradition_Tennessee_Wildlife)

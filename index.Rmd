@@ -1,0 +1,40 @@
+---
+title: "Kiley Fryman"
+image: "Kiley Davan Square.jpg"
+links:
+  - label: ORCiD
+    url: "https://orcid.org/0000-0003-1852-7962"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Kiley-Fryman"
+  - label: Email
+    url: "mailto:davan015@umn.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+## Bio
+Broadly, my research interests lie in the social and cultural aspects of conservation, particularly the cognitions (e.g. attitudes, beliefs, values, etc.) and theories (e.g., cognitive hierarchy) underlying human-wildlife relations. My interest stems from my curiosity to understand why people have certain attitudes and beliefs towards conservation and how we can foster more favorable attitudes, beliefs and behaviors. I hope that by sharing my passion for conservation and animals, I will instill it in others as well.  
+
+In my free time, I enjoy caring for my houseplants, hanging out with my dog and cat, crocheting, and listening to true crime podcasts. I am also obsessed with bats and it is my personal mission to get others to love them too. Check out this video I made about bats: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2dQROPiAIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+## Education
+
+**University of Minnesota | Current** 
+
+PhD Conservation Sciences
+
+**University of Tennessee | 2021** 
+
+M.S. Wildlife and Fisheries Science 
+
+**University of Maine | 2019** 
+
+B.S. Wildlife Ecology with a concentration in Conservation Biology
+
+
+
