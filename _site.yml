@@ -3,7 +3,7 @@ title: "Kiley Davan"
 theme: postcards.css
 description: |
   Kiley Davan
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
